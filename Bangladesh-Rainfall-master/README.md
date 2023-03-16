@@ -14,5 +14,7 @@ Predicted data -> Blue line <br />
 ![alt text](https://github.com/Pandey0809/Data-Analysis-with-Machine-Learning/blob/myB/Bangladesh-Rainfall-master/Images/FullYearPlot(SVM).png)
 - Month Wise plot
 ![alt text](https://github.com/Pandey0809/Data-Analysis-with-Machine-Learning/blob/myB/Bangladesh-Rainfall-master/Images/MonthlyPlot(SVM).png)
+
+
 Similar Plots available in project for all Four algorithm used in comparison.
 
