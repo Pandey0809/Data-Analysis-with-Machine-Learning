@@ -10,7 +10,7 @@ Data-set being used in this project can be found on kaggle or you can use this [
 ## Screen shots
 -HeatMap
 
-![alt text](https://github.com/arnavgarg123/HeartDisease-NaiveBayes-SVM/blob/master/Images/Heatmap.png)
+![alt text](https://github.com/Pandey0809/Data-Analysis-with-Machine-Learning/blob/myB/HeartDisease-NaiveBayes-SVM-master/Images/Heatmap.png)
 
 -Output using NaiveBayes<br />  
 
@@ -31,16 +31,3 @@ Data-set being used in this project can be found on kaggle or you can use this [
 | **micro avg**   |    0.78  |    0.78   |   0.78  |     169 |  
 | **macro avg**     |  0.76    |  0.74     | 0.75   |    169 |  
 | **weighted avg**     |  0.77  |    0.78    |  0.77    |   169 |  
-
-
-### Setup
-- Make surer you have jupyter notebook installed on your system with python 3 kernel.
-- Using terminal/cmd navigate to the folder containing the files of this repo and run the command `juputer-notebook`.
-- Now open NaiveBayes-HeartDisease.ipynb for NaiveBayes and SVM-HeartDisease.ipynb for SVM on jupyter notebook.
- 
-
-
-## License
-
-[![License](https://img.shields.io/github/license/arnavgarg123/Bangladesh-Rainfall.svg?color=ye)](http://badges.mit-license.org)<br />
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/arnavgarg123/HeartDisease-NaiveBayes-SVM/blob/master/LICENSE.md) file for details
