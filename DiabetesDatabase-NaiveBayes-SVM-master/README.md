@@ -10,7 +10,7 @@ Data-set being used in this project can be found on kaggle or you can use this [
 ## Screen shots
 -HeatMap
 
-![alt text](https://github.com/arnavgarg123/DiabetesDatabase-NaiveBayes-SVM/blob/master/Images/Heatmap.png)
+![alt text](https://github.com/Pandey0809/Data-Analysis-with-Machine-Learning/blob/myB/DiabetesDatabase-NaiveBayes-SVM-master/Images/Heatmap.png)
 
 -Output using NaiveBayes<br />  
 
@@ -31,23 +31,3 @@ Data-set being used in this project can be found on kaggle or you can use this [
 | **micro avg**    |   0.79   |   0.79  |    0.79    |   154 |
 | **macro avg**     |  0.76   |   0.74  |    0.75   |    154 |
 | **weighted avg** |      0.78   |   0.79  |    0.78  |     154 |
-## How to use?
-### Clone
-- Clone this repo to your local machine using https://github.com/arnavgarg123/DiabetesDatabase-NaiveBayes-SVM.git
-### Setup
-- Make surer you have jupyter notebook installed on your system with python 3 kernel.
-- Using terminal/cmd navigate to the folder containing the files of this repo and run the command `juputer-notebook`.
-- Now open NaiveBayes-Diabetes.ipynb for NaiveBayes and SVM-Diabetes.ipynb for SVM on jupyter notebook.
- 
-## Contributing
-### Step 1
- - Clone this repo to your local machine using https://github.com/arnavgarg123/DiabetesDatabase-NaiveBayes-SVM.git <br />
-### Step 2
- - HACK AWAY! <br />
-### Step 3
- - Create a new pull request <br />
-
-## License
-
-[![License](https://img.shields.io/github/license/arnavgarg123/Bangladesh-Rainfall.svg?color=ye)](http://badges.mit-license.org)<br />
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/arnavgarg123/DiabetesDatabase-NaiveBayes-SVM/blob/master/LICENSE.md) file for details
