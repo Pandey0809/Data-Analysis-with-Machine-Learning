@@ -32,21 +32,13 @@ Data-set being used in this project can be found on kaggle or you can use this [
 | **macro avg**     |  0.76    |  0.74     | 0.75   |    169 |  
 | **weighted avg**     |  0.77  |    0.78    |  0.77    |   169 |  
 
-## How to use?
-### Clone
-- Clone this repo to your local machine using https://github.com/arnavgarg123/HeartDisease-NaiveBayes-SVM.git
+
 ### Setup
 - Make surer you have jupyter notebook installed on your system with python 3 kernel.
 - Using terminal/cmd navigate to the folder containing the files of this repo and run the command `juputer-notebook`.
 - Now open NaiveBayes-HeartDisease.ipynb for NaiveBayes and SVM-HeartDisease.ipynb for SVM on jupyter notebook.
  
-## Contributing
-### Step 1
- - Clone this repo to your local machine using https://github.com/arnavgarg123/HeartDisease-NaiveBayes-SVM.git <br />
-### Step 2
- - HACK AWAY! <br />
-### Step 3
- - Create a new pull request <br />
+
 
 ## License
 
