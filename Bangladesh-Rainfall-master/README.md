@@ -11,28 +11,8 @@ Data-set being used in this project can be found on kaggle or you can use this [
 Actual data -> Red dot, Green line <br />
 Predicted data -> Blue line <br />
 - Full year plot
-![alt text](https://github.com/arnavgarg123/Bangladesh-Rainfall/blob/master/Images/FullYearPlot(SVM).png)
+![alt text](https://github.com/Pandey0809/Data-Analysis-with-Machine-Learning/blob/myB/Bangladesh-Rainfall-master/Images/FullYearPlot(SVM).png)
 - Month Wise plot
-![alt text](https://github.com/arnavgarg123/Bangladesh-Rainfall/blob/master/Images/MonthlyPlot(SVM).png)
+![alt text](https://github.com/Pandey0809/Data-Analysis-with-Machine-Learning/blob/myB/Bangladesh-Rainfall-master/Images/MonthlyPlot(SVM).png)
 Similar Plots available in project for all Four algorithm used in comparison.
 
-## How to use?
-### Clone
-- Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git
-### Setup
-- Make surer you have jupyter notebook installed on your system with python 3 kernel.
-- Using terminal/cmd navigate to the folder containing the files of this repo and run the command `juputer-notebook`.
-- Now open BangladeshRainfall.ipynb file on jupyter notebook.
-
-## Contributing
-### Step 1
- - Clone this repo to your local machine using https://github.com/arnavgarg123/Bangladesh-Rainfall.git <br />
-### Step 2
- - HACK AWAY! <br />
-### Step 3
- - Create a new pull request <br />
-
-## License
-
-[![License](https://img.shields.io/github/license/arnavgarg123/Bangladesh-Rainfall.svg?color=ye)](http://badges.mit-license.org)<br />
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/arnavgarg123/Bangladesh-Rainfall/blob/master/LICENSE.md) file for details
