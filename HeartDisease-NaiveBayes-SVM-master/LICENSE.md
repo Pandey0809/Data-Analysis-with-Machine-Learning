@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 Arnav Garg
+Copyright (c) 2019 Himanshu Pandey
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
